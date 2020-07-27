@@ -1,6 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import {Provider} from 'react-redux';
+import 'semantic-ui-css/semantic.min.css';
 import App from './App'
 import createStore from "./store";
 const store = createStore();
@@ -11,7 +12,7 @@ const store = createStore();
 
 ReactDOM.render(
   
-    <Provider store={createStore()}>
+    <Provider store={store}>
        <App />
     </Provider>,
     
