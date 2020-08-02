@@ -1,5 +1,6 @@
 import React from "react";
 import { Card, Icon, Image } from 'semantic-ui-react';
+import './BookCard.css';
 
 const BookCard = ({price, author, image, title}) => (
     <Card>
@@ -14,10 +15,8 @@ const BookCard = ({price, author, image, title}) => (
       </Card.Description>
         </Card.Content>
         <Card.Content extra>
-            <a>
-                <Icon name='user' />
-        {price}
-      </a>
+                    <Icon name='usd' />
+                    <span id='price'>{price}</span>
         </Card.Content>
     </Card>
 );

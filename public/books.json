@@ -6,7 +6,7 @@
     "image": "images/things-fall-apart.jpg",
     "language": "English",
     "rating": 5,
-    "pages": 209,
+    "price": 2.09,
     "title": "Things Fall Apart",
     "year": 1958
   },
@@ -16,7 +16,7 @@
     "image": "images/fairy-tales.jpg",
     "language": "Danish",
     "rating": 5,
-    "pages": 784,
+    "price": 7.84,
     "title": "Fairy tales",
     "year": 1836
   },
@@ -26,7 +26,7 @@
     "image": "images/the-divine-comedy.jpg",
     "language": "Italian",
     "rating": 4,
-    "pages": 928,
+    "price": 9.28,
     "title": "The Divine Comedy",
     "year": 1315
   },
@@ -36,7 +36,7 @@
     "image": "images/the-epic-of-gilgamesh.jpg",
     "language": "Akkadian",
     "rating": 4,
-    "pages": 160,
+    "price": 1.60,
     "title": "The Epic Of Gilgamesh",
     "year": -1700
   },
@@ -46,7 +46,7 @@
     "image": "images/the-book-of-job.jpg",
     "language": "Hebrew",
     "rating": 3,
-    "pages": 176,
+    "price": 1.76,
     "title": "The Book Of Job",
     "year": -600
   },
@@ -56,7 +56,7 @@
     "image": "images/one-thousand-and-one-nights.jpg",
     "language": "Arabic",
     "rating": 5,
-    "pages": 288,
+    "price": 2.88,
     "title": "One Thousand and One Nights",
     "year": 1200
   },
@@ -66,7 +66,7 @@
     "image": "images/njals-saga.jpg",
     "language": "Old Norse",
     "rating": 4,
-    "pages": 384,
+    "price": 3.84,
     "title": "Nj\u00e1l's Saga",
     "year": 1350
   },
@@ -76,7 +76,7 @@
     "image": "images/pride-and-prejudice.jpg",
     "language": "English",
     "rating": 5,
-    "pages": 226,
+    "price": 2.26,
     "title": "Pride and Prejudice",
     "year": 1813
   },
@@ -86,7 +86,7 @@
     "image": "images/le-pere-goriot.jpg",
     "language": "French",
     "rating": 5,
-    "pages": 443,
+    "price": 4.43,
     "title": "Le P\u00e8re Goriot",
     "year": 1835
   },
@@ -96,7 +96,7 @@
     "image": "images/molloy-malone-dies-the-unnamable.jpg",
     "language": "French, English",
     "rating": 4,
-    "pages": 256,
+    "price": 2.56,
     "title": "Molloy, Malone Dies, The Unnamable, the trilogy",
     "year": 1952
   },
@@ -106,7 +106,7 @@
     "image": "images/the-decameron.jpg",
     "language": "Italian",
     "rating": 5,
-    "pages": 1024,
+    "price": 10.24,
     "title": "The Decameron",
     "year": 1351
   },
@@ -116,7 +116,7 @@
     "image": "images/ficciones.jpg",
     "language": "Spanish",
     "rating": 4,
-    "pages": 224,
+    "price": 2.24,
     "title": "Ficciones",
     "year": 1965
   },
@@ -126,7 +126,7 @@
     "image": "images/wuthering-heights.jpg",
     "language": "English",
     "rating": 4,
-    "pages": 342,
+    "price": 3.42,
     "title": "Wuthering Heights",
     "year": 1847
   },
@@ -136,7 +136,7 @@
     "image": "images/l-etranger.jpg",
     "language": "French",
     "rating": 3,
-    "pages": 185,
+    "price": 1.85,
     "title": "The Stranger",
     "year": 1942
   },
@@ -146,7 +146,7 @@
     "image": "images/poems-paul-celan.jpg",
     "language": "German",
     "rating": 5,
-    "pages": 320,
+    "price": 3.20,
     "title": "Poems",
     "year": 1952
   },
@@ -156,7 +156,7 @@
     "image": "images/voyage-au-bout-de-la-nuit.jpg",
     "language": "French",
     "rating": 5,
-    "pages": 505,
+    "price": 5.05,
     "title": "Journey to the End of the Night",
     "year": 1932
   },
@@ -166,7 +166,7 @@
     "image": "images/don-quijote-de-la-mancha.jpg",
     "language": "Spanish",
     "rating": 4,
-    "pages": 1056,
+    "price": 10.56,
     "title": "Don Quijote De La Mancha",
     "year": 1610
   },
@@ -176,7 +176,7 @@
     "image": "images/the-canterbury-tales.jpg",
     "language": "English",
     "rating": 5,
-    "pages": 544,
+    "price": 5.44,
     "title": "The Canterbury Tales",
     "year": 1450
   },
@@ -186,7 +186,7 @@
     "image": "images/stories-of-anton-chekhov.jpg",
     "language": "Russian",
     "rating": 4,
-    "pages": 194,
+    "price": 1.94,
     "title": "Stories",
     "year": 1886
   },
@@ -196,7 +196,7 @@
     "image": "images/nostromo.jpg",
     "language": "English",
     "rating": 5,
-    "pages": 320,
+    "price": 3.20,
     "title": "Nostromo",
     "year": 1904
   },
@@ -206,7 +206,7 @@
     "image": "images/great-expectations.jpg",
     "language": "English",
     "rating": 5,
-    "pages": 194,
+    "price": 1.94,
     "title": "Great Expectations",
     "year": 1861
   },
@@ -216,7 +216,7 @@
     "image": "images/jacques-the-fatalist.jpg",
     "language": "French",
     "rating": 4,
-    "pages": 596,
+    "price": 5.96,
     "title": "Jacques the Fatalist",
     "year": 1796
   },
@@ -226,7 +226,7 @@
     "image": "images/berlin-alexanderplatz.jpg",
     "language": "German",
     "rating": 5,
-    "pages": 600,
+    "price": 6.00,
     "title": "Berlin Alexanderplatz",
     "year": 1929
   },
@@ -236,7 +236,7 @@
     "image": "images/crime-and-punishment.jpg",
     "language": "Russian",
     "rating": 5,
-    "pages": 551,
+    "price": 5.51,
     "title": "Crime and Punishment",
     "year": 1866
   },
@@ -246,7 +246,7 @@
     "image": "images/the-idiot.jpg",
     "language": "Russian",
     "rating": 4,
-    "pages": 656,
+    "price": 6.56,
     "title": "The Idiot",
     "year": 1869
   },
@@ -256,7 +256,7 @@
     "image": "images/the-possessed.jpg",
     "language": "Russian",
     "rating": 5,
-    "pages": 768,
+    "price": 7.68,
     "title": "The Possessed",
     "year": 1872
   },
@@ -266,7 +266,7 @@
     "image": "images/the-brothers-karamazov.jpg",
     "language": "Russian",
     "rating": 5,
-    "pages": 824,
+    "price": 8.24,
     "title": "The Brothers Karamazov",
     "year": 1880
   },
@@ -276,7 +276,7 @@
     "image": "images/middlemarch.jpg",
     "language": "English",
     "rating": 4,
-    "pages": 800,
+    "price": 8.00,
     "title": "Middlemarch",
     "year": 1871
   },
@@ -286,7 +286,7 @@
     "image": "images/invisible-man.jpg",
     "language": "English",
     "rating": 3,
-    "pages": 581,
+    "price": 5.81,
     "title": "Invisible Man",
     "year": 1952
   },
@@ -296,7 +296,7 @@
     "image": "images/medea.jpg",
     "language": "Greek",
     "rating": 5,
-    "pages": 104,
+    "price": 1.04,
     "title": "Medea",
     "year": -431
   },
@@ -306,7 +306,7 @@
     "image": "images/absalom-absalom.jpg",
     "language": "English",
     "rating": 3,
-    "pages": 313,
+    "price": 3.13,
     "title": "Absalom, Absalom!",
     "year": 1936
   },
@@ -316,7 +316,7 @@
     "image": "images/the-sound-and-the-fury.jpg",
     "language": "English",
     "rating": 4,
-    "pages": 326,
+    "price": 3.26,
     "title": "The Sound and the Fury",
     "year": 1929
   },
@@ -326,7 +326,7 @@
     "image": "images/madame-bovary.jpg",
     "language": "French",
     "rating": 4,
-    "pages": 528,
+    "price": 5.28,
     "title": "Madame Bovary",
     "year": 1857
   },
@@ -336,7 +336,7 @@
     "image": "images/l-education-sentimentale.jpg",
     "language": "French",
     "rating": 5,
-    "pages": 606,
+    "price": 6.06,
     "title": "Sentimental Education",
     "year": 1869
   },
@@ -346,7 +346,7 @@
     "image": "images/gypsy-ballads.jpg",
     "language": "Spanish",
     "rating": 3,
-    "pages": 218,
+    "price": 2.18,
     "title": "Gypsy Ballads",
     "year": 1928
   },
@@ -356,7 +356,7 @@
     "image": "images/one-hundred-years-of-solitude.jpg",
     "language": "Spanish",
     "rating": 4,
-    "pages": 417,
+    "price": 4.17,
     "title": "One Hundred Years of Solitude",
     "year": 1967
   },
@@ -366,7 +366,7 @@
     "image": "images/love-in-the-time-of-cholera.jpg",
     "language": "Spanish",
     "rating": 3,
-    "pages": 368,
+    "price": 3.68,
     "title": "Love in the Time of Cholera",
     "year": 1985
   },
@@ -376,7 +376,7 @@
     "image": "images/faust.jpg",
     "language": "German",
     "rating": 5,
-    "pages": 158,
+    "price": 1.58,
     "title": "Faust",
     "year": 1832
   },
@@ -386,7 +386,7 @@
     "image": "images/dead-souls.jpg",
     "language": "Russian",
     "rating": 5,
-    "pages": 432,
+    "price": 4.32,
     "title": "Dead Souls",
     "year": 1842
   },
@@ -396,7 +396,7 @@
     "image": "images/the-tin-drum.jpg",
     "language": "German",
     "rating": 5,
-    "pages": 600,
+    "price": 6.00,
     "title": "The Tin Drum",
     "year": 1959
   },
@@ -406,7 +406,7 @@
     "image": "images/the-devil-to-pay-in-the-backlands.jpg",
     "language": "Portuguese",
     "rating": 4,
-    "pages": 494,
+    "price": 4.94,
     "title": "The Devil to Pay in the Backlands",
     "year": 1956
   },
@@ -416,7 +416,7 @@
     "image": "images/hunger.jpg",
     "language": "Norwegian",
     "rating": 4,
-    "pages": 176,
+    "price": 1.76,
     "title": "Hunger",
     "year": 1890
   },
@@ -426,7 +426,7 @@
     "image": "images/the-old-man-and-the-sea.jpg",
     "language": "English",
     "rating": 5,
-    "pages": 128,
+    "price": 1.28,
     "title": "The Old Man and the Sea",
     "year": 1952
   },
@@ -436,7 +436,7 @@
     "image": "images/the-iliad-of-homer.jpg",
     "language": "Greek",
     "rating": 5,
-    "pages": 608,
+    "price": 6.08,
     "title": "Iliad",
     "year": -735
   },
@@ -446,7 +446,7 @@
     "image": "images/the-odyssey-of-homer.jpg",
     "language": "Greek",
     "rating": 4,
-    "pages": 374,
+    "price": 3.74,
     "title": "Odyssey",
     "year": -800
   },
@@ -456,7 +456,7 @@
     "image": "images/a-Dolls-house.jpg",
     "language": "Norwegian",
     "rating": 5,
-    "pages": 68,
+    "price": 6.81,
     "title": "A Doll's House",
     "year": 1879
   },
@@ -466,7 +466,7 @@
     "image": "images/ulysses.jpg",
     "language": "English",
     "rating": 5,
-    "pages": 228,
+    "price": 2.28,
     "title": "Ulysses",
     "year": 1922
   },
@@ -476,7 +476,7 @@
     "image": "images/stories-of-franz-kafka.jpg",
     "language": "German",
     "rating": 5,
-    "pages": 488,
+    "price": 4.88,
     "title": "Stories",
     "year": 1924
   },
@@ -486,7 +486,7 @@
     "image": "images/the-trial.jpg",
     "language": "German",
     "rating": 5,
-    "pages": 160,
+    "price": 1.60,
     "title": "The Trial",
     "year": 1925
   },
@@ -496,7 +496,7 @@
     "image": "images/the-castle.jpg",
     "language": "German",
     "rating": 4,
-    "pages": 352,
+    "price": 3.52,
     "title": "The Castle",
     "year": 1926
   },
@@ -506,7 +506,7 @@
     "image": "images/the-recognition-of-shakuntala.jpg",
     "language": "Sanskrit",
     "rating": 5,
-    "pages": 147,
+    "price": 1.47,
     "title": "The recognition of Shakuntala",
     "year": 150
   },
@@ -516,7 +516,7 @@
     "image": "images/the-sound-of-the-mountain.jpg",
     "language": "Japanese",
     "rating": 5,
-    "pages": 288,
+    "price": 2.88,
     "title": "The Sound of the Mountain",
     "year": 1954
   },
@@ -526,7 +526,7 @@
     "image": "images/zorba-the-greek.jpg",
     "language": "Greek",
     "rating": 3,
-    "pages": 368,
+    "price": 3.68,
     "title": "Zorba the Greek",
     "year": 1946
   },
@@ -536,7 +536,7 @@
     "image": "images/sons-and-lovers.jpg",
     "language": "English",
     "rating": 4,
-    "pages": 432,
+    "price": 4.32,
     "title": "Sons and Lovers",
     "year": 1913
   },
@@ -546,7 +546,7 @@
     "image": "images/independent-people.jpg",
     "language": "Icelandic",
     "rating": 5,
-    "pages": 470,
+    "price": 4.70,
     "title": "Independent People",
     "year": 1934
   },
@@ -556,7 +556,7 @@
     "image": "images/poems-giacomo-leopardi.jpg",
     "language": "Italian",
     "rating": 4,
-    "pages": 184,
+    "price": 1.84,
     "title": "Poems",
     "year": 1818
   },
@@ -566,7 +566,7 @@
     "image": "images/the-golden-notebook.jpg",
     "language": "English",
     "rating": 5,
-    "pages": 688,
+    "price": 6.88,
     "title": "The Golden Notebook",
     "year": 1962
   },
@@ -576,7 +576,7 @@
     "image": "images/pippi-longstocking.jpg",
     "language": "Swedish",
     "rating": 4,
-    "pages": 160,
+    "price": 1.60,
     "title": "Pippi Longstocking",
     "year": 1945
   },
@@ -586,7 +586,7 @@
     "image": "images/diary-of-a-madman.jpg",
     "language": "Chinese",
     "rating": 5,
-    "pages": 389,
+    "price": 3.89,
     "title": "Diary of a Madman",
     "year": 1918
   },
@@ -596,7 +596,7 @@
     "image": "images/children-of-gebelawi.jpg",
     "language": "Arabic",
     "rating": 5,
-    "pages": 355,
+    "price": 3.55,
     "title": "Children of Gebelawi",
     "year": 1959
   },
@@ -606,7 +606,7 @@
     "image": "images/buddenbrooks.jpg",
     "language": "German",
     "rating": 4,
-    "pages": 736,
+    "price": 7.36,
     "title": "Buddenbrooks",
     "year": 1901
   },
@@ -616,7 +616,7 @@
     "image": "images/the-magic-mountain.jpg",
     "language": "German",
     "rating": 4,
-    "pages": 720,
+    "price": 7.20,
     "title": "The Magic Mountain",
     "year": 1924
   },
@@ -626,7 +626,7 @@
     "image": "images/moby-dick.jpg",
     "language": "English",
     "rating": 5,
-    "pages": 378,
+    "price": 3.78,
     "title": "Moby Dick",
     "year": 1851
   },
@@ -636,7 +636,7 @@
     "image": "images/essais.jpg",
     "language": "French",
     "rating": 5,
-    "pages": 404,
+    "price": 4.04,
     "title": "Essays",
     "year": 1595
   },
@@ -646,7 +646,7 @@
     "image": "images/history.jpg",
     "language": "Italian",
     "rating": 4,
-    "pages": 600,
+    "price": 6.00,
     "title": "History",
     "year": 1974
   },
@@ -656,7 +656,7 @@
     "image": "images/beloved.jpg",
     "language": "English",
     "rating": 5,
-    "pages": 321,
+    "price": 3.21,
     "title": "Beloved",
     "year": 1987
   },
@@ -666,7 +666,7 @@
     "image": "images/the-tale-of-genji.jpg",
     "language": "Japanese",
     "rating": 3,
-    "pages": 1360,
+    "price": 13.60,
     "title": "The Tale of Genji",
     "year": 1006
   },
@@ -676,7 +676,7 @@
     "image": "images/the-man-without-qualities.jpg",
     "language": "German",
     "rating": 4,
-    "pages": 365,
+    "price": 3.65,
     "title": "The Man Without Qualities",
     "year": 1931
   },
@@ -686,7 +686,7 @@
     "image": "images/lolita.jpg",
     "language": "English",
     "rating": 5,
-    "pages": 317,
+    "price": 3.17,
     "title": "Lolita",
     "year": 1955
   },
@@ -696,7 +696,7 @@
     "image": "images/nineteen-eighty-four.jpg",
     "language": "English",
     "rating": 4,
-    "pages": 272,
+    "price": 2.72,
     "title": "Nineteen Eighty-Four",
     "year": 1949
   },
@@ -706,7 +706,7 @@
     "image": "images/the-metamorphoses-of-ovid.jpg",
     "language": "Classical Latin",
     "rating": 5,
-    "pages": 576,
+    "price": 5.76,
     "title": "Metamorphoses",
     "year": 100
   },
@@ -716,7 +716,7 @@
     "image": "images/the-book-of-disquiet.jpg",
     "language": "Portuguese",
     "rating": 5,
-    "pages": 272,
+    "price": 2.72,
     "title": "The Book of Disquiet",
     "year": 1928
   },
@@ -726,7 +726,7 @@
     "image": "images/tales-and-poems-of-edgar-allan-poe.jpg",
     "language": "English",
     "rating": 4,
-    "pages": 842,
+    "price": 8.42,
     "title": "Tales",
     "year": 1950
   },
@@ -736,7 +736,7 @@
     "image": "images/a-la-recherche-du-temps-perdu.jpg",
     "language": "French",
     "rating": 4,
-    "pages": 2408,
+    "price": 24.08,
     "title": "In Search of Lost Time",
     "year": 1920
   },
@@ -746,7 +746,7 @@
     "image": "images/gargantua-and-pantagruel.jpg",
     "language": "French",
     "rating": 3,
-    "pages": 623,
+    "price": 6.23,
     "title": "Gargantua and Pantagruel",
     "year": 1533
   },
@@ -756,7 +756,7 @@
     "image": "images/pedro-paramo.jpg",
     "language": "Spanish",
     "rating": 5,
-    "pages": 124,
+    "price": 12.47,
     "title": "Pedro P\u00e1ramo",
     "year": 1955
   },
@@ -766,7 +766,7 @@
     "image": "images/the-masnavi.jpg",
     "language": "Persian",
     "rating": 5,
-    "pages": 438,
+    "price": 4.38,
     "title": "The Masnavi",
     "year": 1236
   },
@@ -776,7 +776,7 @@
     "image": "images/midnights-children.jpg",
     "language": "English",
     "rating": 4,
-    "pages": 536,
+    "price": 5.36,
     "title": "Midnight's Children",
     "year": 1981
   },
@@ -786,7 +786,7 @@
     "image": "images/bostan.jpg",
     "language": "Persian",
     "rating": 5,
-    "pages": 298,
+    "price": 2.98,
     "title": "Bostan",
     "year": 1257
   },
@@ -796,7 +796,7 @@
     "image": "images/season-of-migration-to-the-north.jpg",
     "language": "Arabic",
     "rating": 3,
-    "pages": 139,
+    "price": 1.39,
     "title": "Season of Migration to the North",
     "year": 1966
   },
@@ -806,7 +806,7 @@
     "image": "images/blindness.jpg",
     "language": "Portuguese",
     "rating": 4,
-    "pages": 352,
+    "price": 3.52,
     "title": "Blindness",
     "year": 1995
   },
@@ -816,7 +816,7 @@
     "image": "images/hamlet.jpg",
     "language": "English",
     "rating": 4,
-    "pages": 432,
+    "price": 4.32,
     "title": "Hamlet",
     "year": 1603
   },
@@ -826,7 +826,7 @@
     "image": "images/king-lear.jpg",
     "language": "English",
     "rating": 5,
-    "pages": 384,
+    "price": 3.84,
     "title": "King Lear",
     "year": 1608
   },
@@ -836,7 +836,7 @@
     "image": "images/othello.jpg",
     "language": "English",
     "rating": 5,
-    "pages": 314,
+    "price": 3.14,
     "title": "Othello",
     "year": 1609
   },
@@ -846,7 +846,7 @@
     "image": "images/oedipus-the-king.jpg",
     "language": "Greek",
     "rating": 5,
-    "pages": 88,
+    "price": 8.8,
     "title": "Oedipus the King",
     "year": -430
   },
@@ -856,7 +856,7 @@
     "image": "images/le-rouge-et-le-noir.jpg",
     "language": "French",
     "rating": 5,
-    "pages": 576,
+    "price": 5.76,
     "title": "The Red and the Black",
     "year": 1830
   },
@@ -866,7 +866,7 @@
     "image": "images/the-life-and-opinions-of-tristram-shandy.jpg",
     "language": "English",
     "rating": 4,
-    "pages": 640,
+    "price": 6.40,
     "title": "The Life And Opinions of Tristram Shandy",
     "year": 1760
   },
@@ -876,7 +876,7 @@
     "image": "images/confessions-of-zeno.jpg",
     "language": "Italian",
     "rating": 3,
-    "pages": 412,
+    "price": 4.12,
     "title": "Confessions of Zeno",
     "year": 1923
   },
@@ -886,7 +886,7 @@
     "image": "images/gullivers-travels.jpg",
     "language": "English",
     "rating": 4,
-    "pages": 178,
+    "price": 1.78,
     "title": "Gulliver's Travels",
     "year": 1726
   },
@@ -896,7 +896,7 @@
     "image": "images/war-and-peace.jpg",
     "language": "Russian",
     "rating": 5,
-    "pages": 1296,
+    "price": 12.96,
     "title": "War and Peace",
     "year": 1867
   },
@@ -906,7 +906,7 @@
     "image": "images/anna-karenina.jpg",
     "language": "Russian",
     "rating": 4,
-    "pages": 864,
+    "price": 8.64,
     "title": "Anna Karenina",
     "year": 1877
   },
@@ -916,7 +916,7 @@
     "image": "images/the-death-of-ivan-ilyich.jpg",
     "language": "Russian",
     "rating": 5,
-    "pages": 92,
+    "price": 9.20,
     "title": "The Death of Ivan Ilyich",
     "year": 1886
   },
@@ -926,7 +926,7 @@
     "image": "images/the-adventures-of-huckleberry-finn.jpg",
     "language": "English",
     "rating": 5,
-    "pages": 224,
+    "price": 2.24,
     "title": "The Adventures of Huckleberry Finn",
     "year": 1884
   },
@@ -936,7 +936,7 @@
     "image": "images/ramayana.jpg",
     "language": "Sanskrit",
     "rating": 3,
-    "pages": 152,
+    "price": 1.52,
     "title": "Ramayana",
     "year": -450
   },
@@ -946,7 +946,7 @@
     "image": "images/the-aeneid.jpg",
     "language": "Classical Latin",
     "rating": 5,
-    "pages": 442,
+    "price": 4.42,
     "title": "The Aeneid",
     "year": -23
   },
@@ -956,7 +956,7 @@
     "image": "images/the-mahab-harata.jpg",
     "language": "Sanskrit",
     "rating": 4,
-    "pages": 276,
+    "price": 276,
     "title": "Mahabharata",
     "year": -700
   },
@@ -966,7 +966,7 @@
     "image": "images/leaves-of-grass.jpg",
     "language": "English",
     "rating": 4,
-    "pages": 152,
+    "price": 1.52,
     "title": "Leaves of Grass",
     "year": 1855
   },
@@ -976,7 +976,7 @@
     "image": "images/mrs-dalloway.jpg",
     "language": "English",
     "rating": 5,
-    "pages": 216,
+    "price": 2.16,
     "title": "Mrs Dalloway",
     "year": 1925
   },
@@ -986,7 +986,7 @@
     "image": "images/to-the-lighthouse.jpg",
     "language": "English",
     "rating": 4,
-    "pages": 209,
+    "price": 2.09,
     "title": "To the Lighthouse",
     "year": 1927
   },
@@ -996,7 +996,7 @@
     "image": "images/memoirs-of-hadrian.jpg",
     "language": "French",
     "rating": 4,
-    "pages": 408,
+    "price": 4.08,
     "title": "Memoirs of Hadrian",
     "year": 1951
   }
