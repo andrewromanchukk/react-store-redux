@@ -8,7 +8,8 @@
     "rating": 5,
     "price": 2.09,
     "title": "Things Fall Apart",
-    "year": 1958
+    "year": 1958,
+    "id":0
   },
   {
     "author": "Hans Christian Andersen",
@@ -18,7 +19,8 @@
     "rating": 5,
     "price": 7.84,
     "title": "Fairy tales",
-    "year": 1836
+    "year": 1836,
+    "id":1
   },
   {
     "author": "Dante Alighieri",
@@ -28,7 +30,8 @@
     "rating": 4,
     "price": 9.28,
     "title": "The Divine Comedy",
-    "year": 1315
+    "year": 1315,
+    "id":2
   },
   {
     "author": "Unknown",

@@ -1,9 +1,22 @@
 import React from "react";
-import { Menu, Container } from 'semantic-ui-react';
+import { Menu, Container, Popup, List, Button, Image, ItemDescription } from 'semantic-ui-react';
 import './Menu.css';
+import { removeFromCart } from "../actions/cart";
 
+const CartComponent = ({title, id, image,removeFromCart}) =>(
+  <List divided verticalAlign='middle'>
+    <List.Item>
+      <List.Content floated='right'>
+        <Button color='red' onClick={removeFromCart.bind(this, id)}>Remove</Button>
+      </List.Content>
+      <Image avatar src={image} />
+<List.Content>{title}</List.Content>
+    </List.Item>
+    
+  </List>
+);
 
-const MenuComponent = ()=>(   
+const MenuComponent = ({totalPrice, count})=>(   
     <Container>
         <Menu id='menu'>
         <Menu.Item
@@ -15,14 +28,19 @@ const MenuComponent = ()=>(
           <Menu.Item
             name='signup'
           >
-            Total: &nbsp; <b>0</b>$
+            Total: &nbsp; <b>{totalPrice}</b>$
           </Menu.Item>
 
-          <Menu.Item
-            name='help'
-          >
-            Cart (<b>0</b>)
-          </Menu.Item>
+          
+          <Popup trigger={
+            <Menu.Item name='help' >
+            Cart (<b>{count}</b>)
+            </Menu.Item>
+          } 
+          content={items.map(book=> <CartComponent {...book}/>) }
+          on='click'
+          hideOnScrool/>
+          
         </Menu.Menu>
       </Menu>
 

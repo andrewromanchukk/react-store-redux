@@ -1,7 +1,7 @@
 const initialState = {
     isReady:false,
     items:null,
-    filterBy: 'all',
+    
 };
 
 export default (state = initialState, action)=>{
@@ -12,11 +12,7 @@ export default (state = initialState, action)=>{
                 items: action.payload,
                 isReady: true,
             };
-        case 'SET_FILTER':
-            return{
-                ...state,
-                filterBy: action.payload
-            };
+        
         case 'SET_IS_READY':
             return{
                 ...state,
