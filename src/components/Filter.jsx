@@ -10,11 +10,11 @@ const Filter = ({setFilter, filterBy, searchQuery, setSearchQuery })=>{
             active={filterBy === 'all'}
             onClick={setFilter.bind(this, 'all')}
         >All</Menu.Item>
-        <Menu.Item
+        {/* <Menu.Item
             name='popular'
             active={filterBy === 'popular'}
             onClick={setFilter.bind(this, 'popular')}
-        >Popular</Menu.Item>
+        >Popular</Menu.Item> */}
         <Menu.Item
             name='price_high'
             active={filterBy === 'price_high'}

@@ -1,9 +1,10 @@
 import React from "react";
-import { Menu, Container, Popup, List, Button, Image, ItemDescription } from 'semantic-ui-react';
+import { Menu, Container, Popup, List, Button, Image} from 'semantic-ui-react';
 import './Menu.css';
 import { removeFromCart } from "../actions/cart";
+import books from "../reducers/books";
 
-const CartComponent = ({title, id, image,removeFromCart}) =>(
+const CartComponent = ({title, id, image, removeFromCart}) =>(
   <List divided verticalAlign='middle'>
     <List.Item>
       <List.Content floated='right'>
@@ -16,7 +17,7 @@ const CartComponent = ({title, id, image,removeFromCart}) =>(
   </List>
 );
 
-const MenuComponent = ({totalPrice, count})=>(   
+const MenuComponent = ({totalPrice, count, items})=>(   
     <Container>
         <Menu id='menu'>
         <Menu.Item

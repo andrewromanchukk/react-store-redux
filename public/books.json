@@ -41,7 +41,8 @@
     "rating": 4,
     "price": 1.60,
     "title": "The Epic Of Gilgamesh",
-    "year": -1700
+    "year": -1700,
+    "id":3
   },
   {
     "author": "Unknown",
@@ -51,7 +52,8 @@
     "rating": 3,
     "price": 1.76,
     "title": "The Book Of Job",
-    "year": -600
+    "year": -600,
+    "id":4
   },
   {
     "author": "Unknown",
@@ -61,7 +63,8 @@
     "rating": 5,
     "price": 2.88,
     "title": "One Thousand and One Nights",
-    "year": 1200
+    "year": 1200,
+    "id":5
   },
   {
     "author": "Unknown",
@@ -71,7 +74,8 @@
     "rating": 4,
     "price": 3.84,
     "title": "Nj\u00e1l's Saga",
-    "year": 1350
+    "year": 1350,
+    "id":6
   },
   {
     "author": "Jane Austen",
@@ -81,7 +85,8 @@
     "rating": 5,
     "price": 2.26,
     "title": "Pride and Prejudice",
-    "year": 1813
+    "year": 1813,
+    "id":7
   },
   {
     "author": "Honor\u00e9 de Balzac",
@@ -91,7 +96,8 @@
     "rating": 5,
     "price": 4.43,
     "title": "Le P\u00e8re Goriot",
-    "year": 1835
+    "year": 1835,
+    "id":8
   },
   {
     "author": "Samuel Beckett",
@@ -101,7 +107,8 @@
     "rating": 4,
     "price": 2.56,
     "title": "Molloy, Malone Dies, The Unnamable, the trilogy",
-    "year": 1952
+    "year": 1952,
+    "id":9
   },
   {
     "author": "Giovanni Boccaccio",
@@ -111,7 +118,8 @@
     "rating": 5,
     "price": 10.24,
     "title": "The Decameron",
-    "year": 1351
+    "year": 1351,
+    "id":10
   },
   {
     "author": "Jorge Luis Borges",
@@ -121,7 +129,8 @@
     "rating": 4,
     "price": 2.24,
     "title": "Ficciones",
-    "year": 1965
+    "year": 1965,
+    "id":11
   },
   {
     "author": "Emily Bront\u00eb",
@@ -131,7 +140,8 @@
     "rating": 4,
     "price": 3.42,
     "title": "Wuthering Heights",
-    "year": 1847
+    "year": 1847,
+    "id":12
   },
   {
     "author": "Albert Camus",
@@ -141,7 +151,8 @@
     "rating": 3,
     "price": 1.85,
     "title": "The Stranger",
-    "year": 1942
+    "year": 1942,
+    "id":13
   },
   {
     "author": "Paul Celan",
@@ -151,7 +162,8 @@
     "rating": 5,
     "price": 3.20,
     "title": "Poems",
-    "year": 1952
+    "year": 1952,
+    "id":14
   },
   {
     "author": "Louis-Ferdinand C\u00e9line",
@@ -161,7 +173,8 @@
     "rating": 5,
     "price": 5.05,
     "title": "Journey to the End of the Night",
-    "year": 1932
+    "year": 1932,
+    "id":15
   },
   {
     "author": "Miguel de Cervantes",
@@ -171,7 +184,8 @@
     "rating": 4,
     "price": 10.56,
     "title": "Don Quijote De La Mancha",
-    "year": 1610
+    "year": 1610,
+    "id":16
   },
   {
     "author": "Geoffrey Chaucer",
@@ -181,7 +195,8 @@
     "rating": 5,
     "price": 5.44,
     "title": "The Canterbury Tales",
-    "year": 1450
+    "year": 1450,
+    "id":17
   },
   {
     "author": "Anton Chekhov",
@@ -191,7 +206,8 @@
     "rating": 4,
     "price": 1.94,
     "title": "Stories",
-    "year": 1886
+    "year": 1886,
+    "id":18
   },
   {
     "author": "Joseph Conrad",
@@ -201,7 +217,8 @@
     "rating": 5,
     "price": 3.20,
     "title": "Nostromo",
-    "year": 1904
+    "year": 1904,
+    "id":19
   },
   {
     "author": "Charles Dickens",
@@ -211,7 +228,8 @@
     "rating": 5,
     "price": 1.94,
     "title": "Great Expectations",
-    "year": 1861
+    "year": 1861,
+    "id":20
   },
   {
     "author": "Denis Diderot",
@@ -221,7 +239,8 @@
     "rating": 4,
     "price": 5.96,
     "title": "Jacques the Fatalist",
-    "year": 1796
+    "year": 1796,
+    "id":21
   },
   {
     "author": "Alfred D\u00f6blin",
@@ -231,7 +250,8 @@
     "rating": 5,
     "price": 6.00,
     "title": "Berlin Alexanderplatz",
-    "year": 1929
+    "year": 1929,
+    "id":22
   },
   {
     "author": "Fyodor Dostoevsky",
@@ -241,7 +261,8 @@
     "rating": 5,
     "price": 5.51,
     "title": "Crime and Punishment",
-    "year": 1866
+    "year": 1866,
+    "id":23
   },
   {
     "author": "Fyodor Dostoevsky",
@@ -251,7 +272,8 @@
     "rating": 4,
     "price": 6.56,
     "title": "The Idiot",
-    "year": 1869
+    "year": 1869,
+    "id":24
   },
   {
     "author": "Fyodor Dostoevsky",
@@ -261,7 +283,8 @@
     "rating": 5,
     "price": 7.68,
     "title": "The Possessed",
-    "year": 1872
+    "year": 1872,
+    "id":25
   },
   {
     "author": "Fyodor Dostoevsky",
@@ -271,7 +294,8 @@
     "rating": 5,
     "price": 8.24,
     "title": "The Brothers Karamazov",
-    "year": 1880
+    "year": 1880,
+    "id":26
   },
   {
     "author": "George Eliot",
@@ -281,7 +305,8 @@
     "rating": 4,
     "price": 8.00,
     "title": "Middlemarch",
-    "year": 1871
+    "year": 1871,
+    "id":27
   },
   {
     "author": "Ralph Ellison",
@@ -291,7 +316,8 @@
     "rating": 3,
     "price": 5.81,
     "title": "Invisible Man",
-    "year": 1952
+    "year": 1952,
+    "id":28
   },
   {
     "author": "Euripides",
@@ -301,7 +327,8 @@
     "rating": 5,
     "price": 1.04,
     "title": "Medea",
-    "year": -431
+    "year": -431,
+    "id":29
   },
   {
     "author": "William Faulkner",
@@ -311,7 +338,8 @@
     "rating": 3,
     "price": 3.13,
     "title": "Absalom, Absalom!",
-    "year": 1936
+    "year": 1936,
+    "id":30
   },
   {
     "author": "William Faulkner",
@@ -321,7 +349,8 @@
     "rating": 4,
     "price": 3.26,
     "title": "The Sound and the Fury",
-    "year": 1929
+    "year": 1929,
+    "id":31
   },
   {
     "author": "Gustave Flaubert",
@@ -331,7 +360,8 @@
     "rating": 4,
     "price": 5.28,
     "title": "Madame Bovary",
-    "year": 1857
+    "year": 1857,
+    "id":32
   },
   {
     "author": "Gustave Flaubert",
@@ -341,7 +371,8 @@
     "rating": 5,
     "price": 6.06,
     "title": "Sentimental Education",
-    "year": 1869
+    "year": 1869,
+    "id":33
   },
   {
     "author": "Federico Garc\u00eda Lorca",
@@ -351,7 +382,8 @@
     "rating": 3,
     "price": 2.18,
     "title": "Gypsy Ballads",
-    "year": 1928
+    "year": 1928,
+    "id":34
   },
   {
     "author": "Gabriel Garc\u00eda M\u00e1rquez",
@@ -361,7 +393,8 @@
     "rating": 4,
     "price": 4.17,
     "title": "One Hundred Years of Solitude",
-    "year": 1967
+    "year": 1967,
+    "id":35
   },
   {
     "author": "Gabriel Garc\u00eda M\u00e1rquez",
@@ -371,7 +404,8 @@
     "rating": 3,
     "price": 3.68,
     "title": "Love in the Time of Cholera",
-    "year": 1985
+    "year": 1985,
+    "id":36
   },
   {
     "author": "Johann Wolfgang von Goethe",
@@ -381,7 +415,8 @@
     "rating": 5,
     "price": 1.58,
     "title": "Faust",
-    "year": 1832
+    "year": 1832,
+    "id":37
   },
   {
     "author": "Nikolai Gogol",
@@ -391,7 +426,8 @@
     "rating": 5,
     "price": 4.32,
     "title": "Dead Souls",
-    "year": 1842
+    "year": 1842,
+    "id":38
   },
   {
     "author": "G\u00fcnter Grass",
@@ -401,7 +437,8 @@
     "rating": 5,
     "price": 6.00,
     "title": "The Tin Drum",
-    "year": 1959
+    "year": 1959,
+    "id":39
   },
   {
     "author": "Jo\u00e3o Guimar\u00e3es Rosa",
@@ -411,7 +448,8 @@
     "rating": 4,
     "price": 4.94,
     "title": "The Devil to Pay in the Backlands",
-    "year": 1956
+    "year": 1956,
+    "id":40
   },
   {
     "author": "Knut Hamsun",
@@ -421,7 +459,8 @@
     "rating": 4,
     "price": 1.76,
     "title": "Hunger",
-    "year": 1890
+    "year": 1890,
+    "id":41
   },
   {
     "author": "Ernest Hemingway",
@@ -431,7 +470,8 @@
     "rating": 5,
     "price": 1.28,
     "title": "The Old Man and the Sea",
-    "year": 1952
+    "year": 1952,
+    "id":42
   },
   {
     "author": "Homer",
@@ -441,7 +481,8 @@
     "rating": 5,
     "price": 6.08,
     "title": "Iliad",
-    "year": -735
+    "year": -735,
+    "id":43
   },
   {
     "author": "Homer",
@@ -451,7 +492,8 @@
     "rating": 4,
     "price": 3.74,
     "title": "Odyssey",
-    "year": -800
+    "year": -800,
+    "id":44
   },
   {
     "author": "Henrik Ibsen",
@@ -461,7 +503,8 @@
     "rating": 5,
     "price": 6.81,
     "title": "A Doll's House",
-    "year": 1879
+    "year": 1879,
+    "id":45
   },
   {
     "author": "James Joyce",
@@ -471,7 +514,8 @@
     "rating": 5,
     "price": 2.28,
     "title": "Ulysses",
-    "year": 1922
+    "year": 1922,
+    "id":46
   },
   {
     "author": "Franz Kafka",
@@ -481,7 +525,8 @@
     "rating": 5,
     "price": 4.88,
     "title": "Stories",
-    "year": 1924
+    "year": 1924,
+    "id":47
   },
   {
     "author": "Franz Kafka",
@@ -491,7 +536,8 @@
     "rating": 5,
     "price": 1.60,
     "title": "The Trial",
-    "year": 1925
+    "year": 1925,
+    "id":48
   },
   {
     "author": "Franz Kafka",
@@ -501,7 +547,8 @@
     "rating": 4,
     "price": 3.52,
     "title": "The Castle",
-    "year": 1926
+    "year": 1926,
+    "id":49
   },
   {
     "author": "K\u0101lid\u0101sa",
@@ -511,7 +558,8 @@
     "rating": 5,
     "price": 1.47,
     "title": "The recognition of Shakuntala",
-    "year": 150
+    "year": 150,
+    "id":50
   },
   {
     "author": "Yasunari Kawabata",
@@ -521,7 +569,8 @@
     "rating": 5,
     "price": 2.88,
     "title": "The Sound of the Mountain",
-    "year": 1954
+    "year": 1954,
+    "id":51
   },
   {
     "author": "Nikos Kazantzakis",
@@ -531,7 +580,8 @@
     "rating": 3,
     "price": 3.68,
     "title": "Zorba the Greek",
-    "year": 1946
+    "year": 1946,
+    "id":52
   },
   {
     "author": "D. H. Lawrence",
@@ -541,7 +591,8 @@
     "rating": 4,
     "price": 4.32,
     "title": "Sons and Lovers",
-    "year": 1913
+    "year": 1913,
+    "id":53
   },
   {
     "author": "Halld\u00f3r Laxness",
@@ -551,7 +602,8 @@
     "rating": 5,
     "price": 4.70,
     "title": "Independent People",
-    "year": 1934
+    "year": 1934,
+    "id":54
   },
   {
     "author": "Giacomo Leopardi",
@@ -561,7 +613,8 @@
     "rating": 4,
     "price": 1.84,
     "title": "Poems",
-    "year": 1818
+    "year": 1818,
+    "id":55
   },
   {
     "author": "Doris Lessing",
@@ -571,7 +624,8 @@
     "rating": 5,
     "price": 6.88,
     "title": "The Golden Notebook",
-    "year": 1962
+    "year": 1962,
+    "id":56
   },
   {
     "author": "Astrid Lindgren",
@@ -581,7 +635,8 @@
     "rating": 4,
     "price": 1.60,
     "title": "Pippi Longstocking",
-    "year": 1945
+    "year": 1945,
+    "id":57
   },
   {
     "author": "Lu Xun",
@@ -591,7 +646,8 @@
     "rating": 5,
     "price": 3.89,
     "title": "Diary of a Madman",
-    "year": 1918
+    "year": 1918,
+    "id":58
   },
   {
     "author": "Naguib Mahfouz",
@@ -601,7 +657,8 @@
     "rating": 5,
     "price": 3.55,
     "title": "Children of Gebelawi",
-    "year": 1959
+    "year": 1959,
+    "id":59
   },
   {
     "author": "Thomas Mann",
@@ -611,7 +668,8 @@
     "rating": 4,
     "price": 7.36,
     "title": "Buddenbrooks",
-    "year": 1901
+    "year": 1901,
+    "id":60
   },
   {
     "author": "Thomas Mann",
@@ -621,7 +679,8 @@
     "rating": 4,
     "price": 7.20,
     "title": "The Magic Mountain",
-    "year": 1924
+    "year": 1924,
+    "id":61
   },
   {
     "author": "Herman Melville",
@@ -631,7 +690,8 @@
     "rating": 5,
     "price": 3.78,
     "title": "Moby Dick",
-    "year": 1851
+    "year": 1851,
+    "id":62
   },
   {
     "author": "Michel de Montaigne",
@@ -641,7 +701,8 @@
     "rating": 5,
     "price": 4.04,
     "title": "Essays",
-    "year": 1595
+    "year": 1595,
+    "id":63
   },
   {
     "author": "Elsa Morante",
@@ -651,7 +712,8 @@
     "rating": 4,
     "price": 6.00,
     "title": "History",
-    "year": 1974
+    "year": 1974,
+    "id":64
   },
   {
     "author": "Toni Morrison",
@@ -661,7 +723,8 @@
     "rating": 5,
     "price": 3.21,
     "title": "Beloved",
-    "year": 1987
+    "year": 1987,
+    "id":65
   },
   {
     "author": "Murasaki Shikibu",
@@ -671,7 +734,8 @@
     "rating": 3,
     "price": 13.60,
     "title": "The Tale of Genji",
-    "year": 1006
+    "year": 1006,
+    "id":66
   },
   {
     "author": "Robert Musil",
@@ -681,7 +745,8 @@
     "rating": 4,
     "price": 3.65,
     "title": "The Man Without Qualities",
-    "year": 1931
+    "year": 1931,
+    "id":67
   },
   {
     "author": "Vladimir Nabokov",
@@ -691,7 +756,8 @@
     "rating": 5,
     "price": 3.17,
     "title": "Lolita",
-    "year": 1955
+    "year": 1955,
+    "id":69
   },
   {
     "author": "George Orwell",
@@ -701,7 +767,8 @@
     "rating": 4,
     "price": 2.72,
     "title": "Nineteen Eighty-Four",
-    "year": 1949
+    "year": 1949,
+    "id":70
   },
   {
     "author": "Ovid",
@@ -711,7 +778,8 @@
     "rating": 5,
     "price": 5.76,
     "title": "Metamorphoses",
-    "year": 100
+    "year": 100,
+    "id":71
   },
   {
     "author": "Fernando Pessoa",
@@ -721,7 +789,8 @@
     "rating": 5,
     "price": 2.72,
     "title": "The Book of Disquiet",
-    "year": 1928
+    "year": 1928,
+    "id":72
   },
   {
     "author": "Edgar Allan Poe",
@@ -731,7 +800,8 @@
     "rating": 4,
     "price": 8.42,
     "title": "Tales",
-    "year": 1950
+    "year": 1950,
+    "id":73
   },
   {
     "author": "Marcel Proust",
@@ -741,7 +811,8 @@
     "rating": 4,
     "price": 24.08,
     "title": "In Search of Lost Time",
-    "year": 1920
+    "year": 1920,
+    "id":74
   },
   {
     "author": "Fran\u00e7ois Rabelais",
@@ -751,7 +822,8 @@
     "rating": 3,
     "price": 6.23,
     "title": "Gargantua and Pantagruel",
-    "year": 1533
+    "year": 1533,
+    "id":75
   },
   {
     "author": "Juan Rulfo",
@@ -761,7 +833,8 @@
     "rating": 5,
     "price": 12.47,
     "title": "Pedro P\u00e1ramo",
-    "year": 1955
+    "year": 1955,
+    "id":76
   },
   {
     "author": "Rumi",
@@ -771,7 +844,8 @@
     "rating": 5,
     "price": 4.38,
     "title": "The Masnavi",
-    "year": 1236
+    "year": 1236,
+    "id":77
   },
   {
     "author": "Salman Rushdie",
@@ -781,7 +855,8 @@
     "rating": 4,
     "price": 5.36,
     "title": "Midnight's Children",
-    "year": 1981
+    "year": 1981,
+    "id":78
   },
   {
     "author": "Saadi",
@@ -791,7 +866,8 @@
     "rating": 5,
     "price": 2.98,
     "title": "Bostan",
-    "year": 1257
+    "year": 1257,
+    "id":79
   },
   {
     "author": "Tayeb Salih",
@@ -801,7 +877,8 @@
     "rating": 3,
     "price": 1.39,
     "title": "Season of Migration to the North",
-    "year": 1966
+    "year": 1966,
+    "id":80
   },
   {
     "author": "Jos\u00e9 Saramago",
@@ -811,7 +888,8 @@
     "rating": 4,
     "price": 3.52,
     "title": "Blindness",
-    "year": 1995
+    "year": 1995,
+    "id":81
   },
   {
     "author": "William Shakespeare",
@@ -821,7 +899,8 @@
     "rating": 4,
     "price": 4.32,
     "title": "Hamlet",
-    "year": 1603
+    "year": 1603,
+    "id":82
   },
   {
     "author": "William Shakespeare",
@@ -831,7 +910,8 @@
     "rating": 5,
     "price": 3.84,
     "title": "King Lear",
-    "year": 1608
+    "year": 1608,
+    "id":83
   },
   {
     "author": "William Shakespeare",
@@ -841,7 +921,8 @@
     "rating": 5,
     "price": 3.14,
     "title": "Othello",
-    "year": 1609
+    "year": 1609,
+    "id":84
   },
   {
     "author": "Sophocles",
@@ -851,7 +932,8 @@
     "rating": 5,
     "price": 8.8,
     "title": "Oedipus the King",
-    "year": -430
+    "year": -430,
+    "id":85
   },
   {
     "author": "Stendhal",
@@ -861,7 +943,8 @@
     "rating": 5,
     "price": 5.76,
     "title": "The Red and the Black",
-    "year": 1830
+    "year": 1830,
+    "id":86
   },
   {
     "author": "Laurence Sterne",
@@ -871,7 +954,8 @@
     "rating": 4,
     "price": 6.40,
     "title": "The Life And Opinions of Tristram Shandy",
-    "year": 1760
+    "year": 1760,
+    "id":87
   },
   {
     "author": "Italo Svevo",
@@ -881,7 +965,8 @@
     "rating": 3,
     "price": 4.12,
     "title": "Confessions of Zeno",
-    "year": 1923
+    "year": 1923,
+    "id":88
   },
   {
     "author": "Jonathan Swift",
@@ -891,7 +976,8 @@
     "rating": 4,
     "price": 1.78,
     "title": "Gulliver's Travels",
-    "year": 1726
+    "year": 1726,
+    "id":89
   },
   {
     "author": "Leo Tolstoy",
@@ -901,7 +987,8 @@
     "rating": 5,
     "price": 12.96,
     "title": "War and Peace",
-    "year": 1867
+    "year": 1867,
+    "id":90
   },
   {
     "author": "Leo Tolstoy",
@@ -911,7 +998,8 @@
     "rating": 4,
     "price": 8.64,
     "title": "Anna Karenina",
-    "year": 1877
+    "year": 1877,
+    "id":91
   },
   {
     "author": "Leo Tolstoy",
@@ -921,7 +1009,8 @@
     "rating": 5,
     "price": 9.20,
     "title": "The Death of Ivan Ilyich",
-    "year": 1886
+    "year": 1886,
+    "id":92
   },
   {
     "author": "Mark Twain",
@@ -931,7 +1020,8 @@
     "rating": 5,
     "price": 2.24,
     "title": "The Adventures of Huckleberry Finn",
-    "year": 1884
+    "year": 1884,
+    "id":93
   },
   {
     "author": "Valmiki",
@@ -941,7 +1031,8 @@
     "rating": 3,
     "price": 1.52,
     "title": "Ramayana",
-    "year": -450
+    "year": -450,
+    "id":94
   },
   {
     "author": "Virgil",
@@ -951,7 +1042,8 @@
     "rating": 5,
     "price": 4.42,
     "title": "The Aeneid",
-    "year": -23
+    "year": -23,
+    "id":95
   },
   {
     "author": "Vyasa",
@@ -971,7 +1063,8 @@
     "rating": 4,
     "price": 1.52,
     "title": "Leaves of Grass",
-    "year": 1855
+    "year": 1855,
+    "id":96
   },
   {
     "author": "Virginia Woolf",
@@ -981,7 +1074,8 @@
     "rating": 5,
     "price": 2.16,
     "title": "Mrs Dalloway",
-    "year": 1925
+    "year": 1925,
+    "id":97
   },
   {
     "author": "Virginia Woolf",
@@ -991,7 +1085,8 @@
     "rating": 4,
     "price": 2.09,
     "title": "To the Lighthouse",
-    "year": 1927
+    "year": 1927,
+    "id":98
   },
   {
     "author": "Marguerite Yourcenar",
@@ -1001,6 +1096,7 @@
     "rating": 4,
     "price": 4.08,
     "title": "Memoirs of Hadrian",
-    "year": 1951
+    "year": 1951,
+    "id":99
   }
 ]
